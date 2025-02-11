@@ -1,6 +1,6 @@
 # Kugisaki Chat Bot
 
-A web-based chat interface featuring Kugisaki, a sassy AI personality powered by Google's Gemini 1.5 Flash model. The application provides a modern, responsive chat interface with real-time AI responses.
+A web-based chat interface featuring Kugisaki, a sassy AI personality powered by Google's Gemini 2.0 Flash model. The application provides a modern, responsive chat interface with real-time AI responses.
 
 ## Features
 
