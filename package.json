@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-web",
+  "version": "1.0.0",
+  "description": "A web ui for gemini api in raw html, css and javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditsuru-git/chatbot-web.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ai"
+  ],
+  "author": "Adi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditsuru-git/chatbot-web/issues"
+  },
+  "homepage": "https://github.com/aditsuru-git/chatbot-web#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.7"
+  }
+}
