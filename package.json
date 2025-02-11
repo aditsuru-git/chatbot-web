@@ -4,7 +4,8 @@
   "description": "A web ui for gemini api in raw html, css and javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon src/index.js"
+    "test": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
