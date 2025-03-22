@@ -1,14 +1,12 @@
 # Kugisaki Chat Bot
 
-A web-based chat interface featuring Kugisaki, a sassy AI personality powered by Google's Gemini 2.0 Flash model. The application provides a modern, responsive chat interface with real-time AI responses.
+A web-based chat interface featuring Kugisaki, a sassy AI personality powered by Google's Gemini 2.0 Flash model.
 
 ## Features
 
 - Real-time chat interface
 - Sassy and fun Gen-Z style responses
 - Responsive design for all devices
-- Custom scrollbar and smooth animations
-- Dark mode interface
 
 ## Prerequisites
 
@@ -80,11 +78,3 @@ Send chat messages to the AI
   - Express.js
 - AI Integration:
   - Google Generative AI (Gemini 2.0 Flash)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
